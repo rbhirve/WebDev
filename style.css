@@ -1,0 +1,42 @@
+body
+{
+	margin: 0px;
+	padding: 0px;
+	font-family: 'comfortaa',cursive;
+	text-align: center;
+
+}
+input[type= "text"], input[type = "password"]
+{
+	outline: none;
+	padding: 10px;
+	display:black;
+	width:280px;
+	border-radius: 3px;
+	border: 1px solid #eee;
+	margin:20px auto;
+}
+
+input[type = "submit"]{
+	padding: 10px;
+	display: black;
+	color: #fff;
+	background: #1198cb;
+	width: 250px;
+	margin: 20px auto;
+	border: 0px;
+	border-radius: 3px;
+	cursor: pointer;
+}
+.header {
+	border-bottom: 1px;
+	text-align: center;
+	padding: 10px 0px;
+	width: 100%;
+
+
+}
+.header a{
+	color: #333;
+	text-decoration: none;
+}
